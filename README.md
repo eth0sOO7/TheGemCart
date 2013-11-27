@@ -16,3 +16,5 @@ Features
     Discount coupons
     Reporting and Quickbooks integration tools
     Many payment and shipping module
+
+Tags: e-commerce, ecommerce, commerce, store, shopping cart, sales, sell, shop, checkout, configurable, reports, download, downloads, downloadable, digital, inventory, stock, reports
